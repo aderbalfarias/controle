@@ -1,0 +1,10 @@
+F:\Visual Studio 2013\Projects\adwords\lib\examples\AdWords\csharp\bin\Debug\Google.AdWords.Examples.CSharp.exe.config
+F:\Visual Studio 2013\Projects\adwords\lib\examples\AdWords\csharp\bin\Debug\Google.AdWords.Examples.CSharp.exe
+F:\Visual Studio 2013\Projects\adwords\lib\examples\AdWords\csharp\bin\Debug\Google.AdWords.Examples.CSharp.pdb
+F:\Visual Studio 2013\Projects\adwords\lib\examples\AdWords\csharp\bin\Debug\Google.Ads.Common.dll
+F:\Visual Studio 2013\Projects\adwords\lib\examples\AdWords\csharp\bin\Debug\Google.AdWords.dll
+F:\Visual Studio 2013\Projects\adwords\lib\examples\AdWords\csharp\bin\Debug\Google.AdWords.xml
+F:\Visual Studio 2013\Projects\adwords\lib\examples\AdWords\csharp\bin\Debug\Google.Ads.Common.xml
+F:\Visual Studio 2013\Projects\adwords\lib\examples\AdWords\csharp\obj\Debug\AdWords.Examples.CSharp.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2013\Projects\adwords\lib\examples\AdWords\csharp\obj\Debug\Google.AdWords.Examples.CSharp.exe
+F:\Visual Studio 2013\Projects\adwords\lib\examples\AdWords\csharp\obj\Debug\Google.AdWords.Examples.CSharp.pdb

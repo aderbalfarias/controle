@@ -1,0 +1,8 @@
+C:\Users\IranMarleydaSilva\Documents\Visual Studio 2013\Projects\Imarley.Controle\Imarley.Controle.Domain\bin\Debug\Imarley.Controle.Domain.dll
+C:\Users\IranMarleydaSilva\Documents\Visual Studio 2013\Projects\Imarley.Controle\Imarley.Controle.Domain\bin\Debug\Imarley.Controle.Domain.pdb
+C:\Users\IranMarleydaSilva\Documents\Visual Studio 2013\Projects\Imarley.Controle\Imarley.Controle.Domain\obj\Debug\Imarley.Controle.Domain.dll
+C:\Users\IranMarleydaSilva\Documents\Visual Studio 2013\Projects\Imarley.Controle\Imarley.Controle.Domain\obj\Debug\Imarley.Controle.Domain.pdb
+F:\Visual Studio 2013\Projects\Imarley.Controle\Imarley.Controle.Domain\bin\Debug\Imarley.Controle.Domain.dll
+F:\Visual Studio 2013\Projects\Imarley.Controle\Imarley.Controle.Domain\bin\Debug\Imarley.Controle.Domain.pdb
+F:\Visual Studio 2013\Projects\Imarley.Controle\Imarley.Controle.Domain\obj\Debug\Imarley.Controle.Domain.dll
+F:\Visual Studio 2013\Projects\Imarley.Controle\Imarley.Controle.Domain\obj\Debug\Imarley.Controle.Domain.pdb

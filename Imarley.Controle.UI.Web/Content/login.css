@@ -1,0 +1,44 @@
+﻿body {
+    background-image: url("../Content/images/project.jpg");
+    background-size: cover;
+    background-position: 50% 0;
+    background-attachment: fixed;
+	overflow-x: hidden;
+}
+
+.page-login {
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 30px;
+    background-color: inherit;
+    background-color: #04223A;
+    border: #f8f8f8 1px groove;
+    position: absolute; 
+    width: 440px; 
+    margin-left:-220px; 
+    height: 345px; 
+    margin-top:-225px; 
+    top: 50%; 
+    left: 50%;
+    display: inline-block;
+	font-weight: 400;
+    color: #ffffff;
+}
+
+@media (max-width: 450px) {
+    .page-login {
+        padding-top: 0;
+        width: 300px; 
+        margin-left:-150px; 
+    }
+}
+
+.profile-img {
+    height: 90px;
+	background: url('../Content/images/logo.jpg') no-repeat center;
+}
+
+.display-inline {
+    display: inline-block;
+}
+

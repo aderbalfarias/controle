@@ -1,0 +1,14 @@
+C:\Users\IranMarleydaSilva\Documents\Visual Studio 2013\Projects\Imarley.Controle\Imarley.Controle.Application\bin\Debug\Imarley.Controle.Application.dll
+C:\Users\IranMarleydaSilva\Documents\Visual Studio 2013\Projects\Imarley.Controle\Imarley.Controle.Application\bin\Debug\Imarley.Controle.Application.pdb
+C:\Users\IranMarleydaSilva\Documents\Visual Studio 2013\Projects\Imarley.Controle\Imarley.Controle.Application\bin\Debug\Imarley.Controle.Domain.dll
+C:\Users\IranMarleydaSilva\Documents\Visual Studio 2013\Projects\Imarley.Controle\Imarley.Controle.Application\bin\Debug\Imarley.Controle.Domain.pdb
+C:\Users\IranMarleydaSilva\Documents\Visual Studio 2013\Projects\Imarley.Controle\Imarley.Controle.Application\obj\Debug\Imarley.Controle.Application.csprojResolveAssemblyReference.cache
+C:\Users\IranMarleydaSilva\Documents\Visual Studio 2013\Projects\Imarley.Controle\Imarley.Controle.Application\obj\Debug\Imarley.Controle.Application.dll
+C:\Users\IranMarleydaSilva\Documents\Visual Studio 2013\Projects\Imarley.Controle\Imarley.Controle.Application\obj\Debug\Imarley.Controle.Application.pdb
+F:\Visual Studio 2013\Projects\Imarley.Controle\Imarley.Controle.Application\bin\Debug\Imarley.Controle.Application.dll
+F:\Visual Studio 2013\Projects\Imarley.Controle\Imarley.Controle.Application\bin\Debug\Imarley.Controle.Application.pdb
+F:\Visual Studio 2013\Projects\Imarley.Controle\Imarley.Controle.Application\bin\Debug\Imarley.Controle.Domain.dll
+F:\Visual Studio 2013\Projects\Imarley.Controle\Imarley.Controle.Application\bin\Debug\Imarley.Controle.Domain.pdb
+F:\Visual Studio 2013\Projects\Imarley.Controle\Imarley.Controle.Application\obj\Debug\Imarley.Controle.Application.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2013\Projects\Imarley.Controle\Imarley.Controle.Application\obj\Debug\Imarley.Controle.Application.dll
+F:\Visual Studio 2013\Projects\Imarley.Controle\Imarley.Controle.Application\obj\Debug\Imarley.Controle.Application.pdb

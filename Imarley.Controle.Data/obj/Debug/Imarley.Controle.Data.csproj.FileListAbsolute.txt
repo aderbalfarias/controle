@@ -1,0 +1,14 @@
+F:\Visual Studio 2013\Projects\Imarley.Controle\Imarley.Controle.Data\bin\Debug\Imarley.Controle.Data.dll.config
+F:\Visual Studio 2013\Projects\Imarley.Controle\Imarley.Controle.Data\bin\Debug\Imarley.Controle.Data.dll
+F:\Visual Studio 2013\Projects\Imarley.Controle\Imarley.Controle.Data\bin\Debug\Imarley.Controle.Data.pdb
+F:\Visual Studio 2013\Projects\Imarley.Controle\Imarley.Controle.Data\bin\Debug\EntityFramework.dll
+F:\Visual Studio 2013\Projects\Imarley.Controle\Imarley.Controle.Data\bin\Debug\EntityFramework.SqlServer.dll
+F:\Visual Studio 2013\Projects\Imarley.Controle\Imarley.Controle.Data\bin\Debug\Imarley.Controle.Domain.dll
+F:\Visual Studio 2013\Projects\Imarley.Controle\Imarley.Controle.Data\bin\Debug\Imarley.Controle.Domain.pdb
+F:\Visual Studio 2013\Projects\Imarley.Controle\Imarley.Controle.Data\bin\Debug\EntityFramework.xml
+F:\Visual Studio 2013\Projects\Imarley.Controle\Imarley.Controle.Data\bin\Debug\EntityFramework.SqlServer.xml
+F:\Visual Studio 2013\Projects\Imarley.Controle\Imarley.Controle.Data\obj\Debug\Imarley.Controle.Data.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2013\Projects\Imarley.Controle\Imarley.Controle.Data\obj\Debug\Imarley.Controle.Data.Migrations.InitialMigration.resources
+F:\Visual Studio 2013\Projects\Imarley.Controle\Imarley.Controle.Data\obj\Debug\Imarley.Controle.Data.csproj.GenerateResource.Cache
+F:\Visual Studio 2013\Projects\Imarley.Controle\Imarley.Controle.Data\obj\Debug\Imarley.Controle.Data.dll
+F:\Visual Studio 2013\Projects\Imarley.Controle\Imarley.Controle.Data\obj\Debug\Imarley.Controle.Data.pdb
