@@ -17,3 +17,23 @@ F:\Visual Studio 2013\Projects\Imarley.Controle\Imarley.Controle.CrossCuting\bin
 F:\Visual Studio 2013\Projects\Imarley.Controle\Imarley.Controle.CrossCuting\obj\Debug\Imarley.Controle.CrossCuting.csprojResolveAssemblyReference.cache
 F:\Visual Studio 2013\Projects\Imarley.Controle\Imarley.Controle.CrossCuting\obj\Debug\Imarley.Controle.CrossCuting.dll
 F:\Visual Studio 2013\Projects\Imarley.Controle\Imarley.Controle.CrossCuting\obj\Debug\Imarley.Controle.CrossCuting.pdb
+C:\GitRepository\Controle\Imarley.Controle.CrossCuting\bin\Debug\Imarley.Controle.CrossCuting.dll
+C:\GitRepository\Controle\Imarley.Controle.CrossCuting\bin\Debug\Imarley.Controle.CrossCuting.pdb
+C:\GitRepository\Controle\Imarley.Controle.CrossCuting\bin\Debug\CommonServiceLocator.NinjectAdapter.Unofficial.dll
+C:\GitRepository\Controle\Imarley.Controle.CrossCuting\bin\Debug\Imarley.Controle.Application.dll
+C:\GitRepository\Controle\Imarley.Controle.CrossCuting\bin\Debug\Imarley.Controle.Data.dll
+C:\GitRepository\Controle\Imarley.Controle.CrossCuting\bin\Debug\Imarley.Controle.Domain.dll
+C:\GitRepository\Controle\Imarley.Controle.CrossCuting\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\GitRepository\Controle\Imarley.Controle.CrossCuting\bin\Debug\Ninject.dll
+C:\GitRepository\Controle\Imarley.Controle.CrossCuting\bin\Debug\EntityFramework.dll
+C:\GitRepository\Controle\Imarley.Controle.CrossCuting\bin\Debug\Imarley.Controle.Application.pdb
+C:\GitRepository\Controle\Imarley.Controle.CrossCuting\bin\Debug\Imarley.Controle.Data.pdb
+C:\GitRepository\Controle\Imarley.Controle.CrossCuting\bin\Debug\Imarley.Controle.Data.dll.config
+C:\GitRepository\Controle\Imarley.Controle.CrossCuting\bin\Debug\Imarley.Controle.Domain.pdb
+C:\GitRepository\Controle\Imarley.Controle.CrossCuting\bin\Debug\Microsoft.Practices.ServiceLocation.pdb
+C:\GitRepository\Controle\Imarley.Controle.CrossCuting\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\GitRepository\Controle\Imarley.Controle.CrossCuting\bin\Debug\Ninject.xml
+C:\GitRepository\Controle\Imarley.Controle.CrossCuting\bin\Debug\EntityFramework.xml
+C:\GitRepository\Controle\Imarley.Controle.CrossCuting\obj\Debug\Imarley.Controle.CrossCuting.csprojResolveAssemblyReference.cache
+C:\GitRepository\Controle\Imarley.Controle.CrossCuting\obj\Debug\Imarley.Controle.CrossCuting.dll
+C:\GitRepository\Controle\Imarley.Controle.CrossCuting\obj\Debug\Imarley.Controle.CrossCuting.pdb

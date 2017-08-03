@@ -34,3 +34,8 @@ F:\Visual Studio 2013\Projects\Imarley.Controle\Imarley.Controle.Security\obj\De
 F:\Visual Studio 2013\Projects\Imarley.Controle\Imarley.Controle.Security\obj\Debug\Imarley.Controle.Security.dll
 F:\Visual Studio 2013\Projects\Imarley.Controle\Imarley.Controle.Security\obj\Debug\Imarley.Controle.Security.pdb
 F:\Visual Studio 2013\Projects\Imarley.Controle\Imarley.Controle.Security\obj\Debug\Imarley.Controle.Security.csprojResolveAssemblyReference.cache
+C:\GitRepository\Controle\Imarley.Controle.Security\obj\Debug\Imarley.Controle.Security.csprojResolveAssemblyReference.cache
+C:\GitRepository\Controle\Imarley.Controle.Security\obj\Debug\Imarley.Controle.Security.Migrations.inicial.resources
+C:\GitRepository\Controle\Imarley.Controle.Security\obj\Debug\Imarley.Controle.Security.csproj.GenerateResource.Cache
+C:\GitRepository\Controle\Imarley.Controle.Security\obj\Debug\Imarley.Controle.Security.dll
+C:\GitRepository\Controle\Imarley.Controle.Security\obj\Debug\Imarley.Controle.Security.pdb

@@ -12,3 +12,10 @@ F:\Visual Studio 2013\Projects\Imarley.Controle\Imarley.Controle.Application\bin
 F:\Visual Studio 2013\Projects\Imarley.Controle\Imarley.Controle.Application\obj\Debug\Imarley.Controle.Application.csprojResolveAssemblyReference.cache
 F:\Visual Studio 2013\Projects\Imarley.Controle\Imarley.Controle.Application\obj\Debug\Imarley.Controle.Application.dll
 F:\Visual Studio 2013\Projects\Imarley.Controle\Imarley.Controle.Application\obj\Debug\Imarley.Controle.Application.pdb
+C:\GitRepository\Controle\Imarley.Controle.Application\bin\Debug\Imarley.Controle.Application.dll
+C:\GitRepository\Controle\Imarley.Controle.Application\bin\Debug\Imarley.Controle.Application.pdb
+C:\GitRepository\Controle\Imarley.Controle.Application\bin\Debug\Imarley.Controle.Domain.dll
+C:\GitRepository\Controle\Imarley.Controle.Application\bin\Debug\Imarley.Controle.Domain.pdb
+C:\GitRepository\Controle\Imarley.Controle.Application\obj\Debug\Imarley.Controle.Application.csprojResolveAssemblyReference.cache
+C:\GitRepository\Controle\Imarley.Controle.Application\obj\Debug\Imarley.Controle.Application.dll
+C:\GitRepository\Controle\Imarley.Controle.Application\obj\Debug\Imarley.Controle.Application.pdb

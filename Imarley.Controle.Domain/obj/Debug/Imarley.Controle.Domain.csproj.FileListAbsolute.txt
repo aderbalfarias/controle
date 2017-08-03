@@ -6,3 +6,8 @@ F:\Visual Studio 2013\Projects\Imarley.Controle\Imarley.Controle.Domain\bin\Debu
 F:\Visual Studio 2013\Projects\Imarley.Controle\Imarley.Controle.Domain\bin\Debug\Imarley.Controle.Domain.pdb
 F:\Visual Studio 2013\Projects\Imarley.Controle\Imarley.Controle.Domain\obj\Debug\Imarley.Controle.Domain.dll
 F:\Visual Studio 2013\Projects\Imarley.Controle\Imarley.Controle.Domain\obj\Debug\Imarley.Controle.Domain.pdb
+C:\GitRepository\Controle\Imarley.Controle.Domain\bin\Debug\Imarley.Controle.Domain.dll
+C:\GitRepository\Controle\Imarley.Controle.Domain\bin\Debug\Imarley.Controle.Domain.pdb
+C:\GitRepository\Controle\Imarley.Controle.Domain\obj\Debug\Imarley.Controle.Domain.csprojResolveAssemblyReference.cache
+C:\GitRepository\Controle\Imarley.Controle.Domain\obj\Debug\Imarley.Controle.Domain.dll
+C:\GitRepository\Controle\Imarley.Controle.Domain\obj\Debug\Imarley.Controle.Domain.pdb

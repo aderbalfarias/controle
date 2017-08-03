@@ -12,3 +12,17 @@ F:\Visual Studio 2013\Projects\Imarley.Controle\Imarley.Controle.Data\obj\Debug\
 F:\Visual Studio 2013\Projects\Imarley.Controle\Imarley.Controle.Data\obj\Debug\Imarley.Controle.Data.csproj.GenerateResource.Cache
 F:\Visual Studio 2013\Projects\Imarley.Controle\Imarley.Controle.Data\obj\Debug\Imarley.Controle.Data.dll
 F:\Visual Studio 2013\Projects\Imarley.Controle\Imarley.Controle.Data\obj\Debug\Imarley.Controle.Data.pdb
+C:\GitRepository\Controle\Imarley.Controle.Data\bin\Debug\Imarley.Controle.Data.dll.config
+C:\GitRepository\Controle\Imarley.Controle.Data\bin\Debug\Imarley.Controle.Data.dll
+C:\GitRepository\Controle\Imarley.Controle.Data\bin\Debug\Imarley.Controle.Data.pdb
+C:\GitRepository\Controle\Imarley.Controle.Data\bin\Debug\EntityFramework.dll
+C:\GitRepository\Controle\Imarley.Controle.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\GitRepository\Controle\Imarley.Controle.Data\bin\Debug\Imarley.Controle.Domain.dll
+C:\GitRepository\Controle\Imarley.Controle.Data\bin\Debug\Imarley.Controle.Domain.pdb
+C:\GitRepository\Controle\Imarley.Controle.Data\bin\Debug\EntityFramework.xml
+C:\GitRepository\Controle\Imarley.Controle.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\GitRepository\Controle\Imarley.Controle.Data\obj\Debug\Imarley.Controle.Data.csprojResolveAssemblyReference.cache
+C:\GitRepository\Controle\Imarley.Controle.Data\obj\Debug\Imarley.Controle.Data.Migrations.InitialMigration.resources
+C:\GitRepository\Controle\Imarley.Controle.Data\obj\Debug\Imarley.Controle.Data.csproj.GenerateResource.Cache
+C:\GitRepository\Controle\Imarley.Controle.Data\obj\Debug\Imarley.Controle.Data.dll
+C:\GitRepository\Controle\Imarley.Controle.Data\obj\Debug\Imarley.Controle.Data.pdb
