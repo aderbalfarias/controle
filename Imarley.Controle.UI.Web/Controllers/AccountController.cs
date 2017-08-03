@@ -81,7 +81,7 @@ namespace Imarley.Controle.UI.Web.Controllers
                     var user = await UserManager.FindAsync(model.Email, model.Password);
                     if (!user.EmailConfirmed)
                     {
-                        TempData["AvisoEmail"] = "Usuário não confirmado, verifique seu e-mail.";
+                        TempData["AvisoEmail"] = "Usuário não confirmado, verifique seu e-mail!";
                     }
                     await SignInAsync(user, model.RememberMe);
                     return RedirectToLocal(returnUrl);
@@ -91,7 +91,7 @@ namespace Imarley.Controle.UI.Web.Controllers
                     return RedirectToAction("SendCode", new { ReturnUrl = returnUrl });
                 case SignInStatus.Failure:
                 default:
-                    ModelState.AddModelError("", "Login ou Senha incorretos.");
+                    ModelState.AddModelError("", "Login ou Senha incorretos!");
                     return View(model);
             }
         }

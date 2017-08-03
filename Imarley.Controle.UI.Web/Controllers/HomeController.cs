@@ -9,6 +9,5 @@ namespace Imarley.Controle.UI.Web.Controllers
         {
             return View();
         }
-
     }
 }
